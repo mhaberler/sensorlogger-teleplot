@@ -29,5 +29,5 @@ Press CTRL+C to quit
 https://teleplot.fr should start displaying values:
 
 
-<img src="docs/teleplot.png"/>
+<img src="doc/teleplot.png"/>
 
