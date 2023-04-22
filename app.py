@@ -1,5 +1,5 @@
 
-# logs sensorlogger to relay to teleplot.fr
+# receives sensorlogger push updates and relays to teleplot.fr
 
 # run as:
 # TELEPLOT=teleplot.fr:<destport> flask run --host=0.0.0.0 --port=<local portnumber>
