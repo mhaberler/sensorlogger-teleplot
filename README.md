@@ -1,4 +1,4 @@
-# teleplot relay for sensorlogger
+# teleplot relay for [sensorlogger](https://www.tszheichoi.com/sensorlogger)
 
 ## step 1: run https://teleplot.fr/
 this will give you a UDP socket like `teleplot.fr:4711`
